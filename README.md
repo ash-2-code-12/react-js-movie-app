@@ -8,46 +8,46 @@
 
 ### Application on initial load
 ![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/6442dc8f-119c-4ef8-8536-479e9927f9c3)
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/92eb0953-a5ef-46ea-8d7c-d72c6087a4bc)
 
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/23bccc56-95ed-4299-98d2-291eed1372b9)
 
 ### on small screen:
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/b2c96f96-c8fa-4fd5-a16c-fa3374f614a7)
-### on medium screen :
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/7c0e6131-9e3c-447a-9ea4-6b2d759be416)
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/5ffff8c3-cd2b-436f-840e-c22f99e36266)
 
+### on medium screen :
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/28ec7b41-f86f-48e1-8d85-8f330b15def0)
 
 ### Search Functionality :
--as we enter search text the products are filtered and shown.
--before search :
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/39c550db-7759-427d-9522-3ba4d03935bd)
+-as we enter search text the movies are filtered and shown.
 
--entering search text: "J"
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/aaf64049-820d-4546-9295-19b9be970e50)
+-entering search text: "English"
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/c3b46aae-9829-467d-8e59-fa46445d2241)
 
--entering search text: "JE"
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/27014d82-c8a0-4c61-baa0-5934cc13c90c)
+-entering search text: "French"
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/8d12c726-0d10-4c37-b03b-c2ef40eb8d3a)
 
-## Filter By Category:
--click on any category
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/02e66f30-c33c-477c-90eb-1cb3584036dd)
-filtered products view
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/a937891a-ebca-41ea-9b3e-14ac6d079157)
 
-## Sort by Price:
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/c1132821-91b5-4d91-b917-9c758ed693e0)
+## Filter By Genre:
+-click on any genre
+![Screenshot 2024-02-25 190750](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/f764e0e1-1b8f-437c-903e-dfd72ddfb7d2)
 
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/cfcc27c5-6962-4026-b487-a5f67ecc0098)
+
+filtered movies view
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/a4a07665-3fb1-492f-8c26-7099971d2d3e)
+
 
 ## Sort by Rating:
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/38b0c136-883e-4e01-a9d2-fb91b4342910)
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/c735e2db-874b-4dc2-98ef-8d5cdcadbcb0)
+![Screenshot 2024-02-25 190943](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/7ffe1297-c03a-448d-a6f5-0876f8697369)
+
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/9eb7dd39-b504-429c-9d05-671c139c2e84)
+
+## Filter by Format and language
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/c65ab352-cc81-474c-b18a-6986e5d7af72)
+![image](https://github.com/ash-2-code-12/react-js-movie-app/assets/128391295/7e860a21-5c19-4c9d-ad27-4f4fa5916711)
 
 ## Reset to show all products
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/fbba6dc2-f1e3-4a87-83ba-2c6f53b794eb)
-![image](https://github.com/ash-2-code-12/react-shopping-app/assets/128391295/98fec8b4-a715-491a-8285-8e0339f64dc7)
 
-## work in progress to build cart 
+## work in progress to build booking view 
 
 
 
