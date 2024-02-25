@@ -388,7 +388,7 @@ function App() {
   return (
     <div className="container-fluid p-0 ">
       {/* navbar */}
-      <div className="p-0 mt-2 col-12 px-2">
+      <div className="p-0 mt-2 col-12 px-2 fixed-top">
         <nav className="navbar nav-rounder navbar-expand-lg navbar-light  p-2">
           <a className="navbar-brand ml-4 nav-name" href="#">
             <SiThemoviedatabase size="44" color="white"  className="mr-3 p-0" />
